@@ -4,7 +4,6 @@ import Education from './Education'
 import Skills from './Skills'
 import Profile from './Profile'
 import Experience from './Experience'
-import Portfolio from './Portfolio'
 import About from './About'
 class Home extends Component {
     render() {
@@ -21,7 +20,6 @@ class Home extends Component {
                             <Skills/>
                             <Experience/>
                             <Education/>
-                            <Portfolio/>
                         </div>
                     </div>
                 </div>

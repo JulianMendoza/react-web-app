@@ -38,6 +38,13 @@ class About extends Component {
                         </strong>
                     </p>
                 </div>
+                <div className="s12 m6 16 x16">
+                    <p>
+                        <strong>
+                            Languages:
+                        </strong>
+                    </p>
+                </div>
                 </div>
             </div>                
             </div>

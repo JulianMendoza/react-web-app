@@ -4,7 +4,6 @@ import {HashLink as Link } from "react-router-hash-link";
 class Portfolio extends Component {
     render() {
         return (
-            <div>
                 <div className="card">
                     <div className="card-image">
                         <img className="activator" src={img} alt="Julian Mendoza"/>
@@ -32,7 +31,6 @@ class Portfolio extends Component {
 
                     </div>
                 </div>
-            </div>
         );
     }
 }

@@ -7,7 +7,6 @@ import Education from './components/Education'
 import Skills from './components/Skills'
 import Profile from './components/Profile'
 import Experience from './components/Experience'
-import Portfolio from './components/Portfolio'
 function App() {
   return (
     <Router>
@@ -17,7 +16,6 @@ function App() {
       <Route exact path='/education' component={Education}/>
       <Route exact path='/profile' component={Profile}/>
       <Route exact path='/experiences' component={Experience}/>
-      <Route exact path='/portfolio' component={Portfolio}/>
       </Switch>
 
     </Router>

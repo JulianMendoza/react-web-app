@@ -19,8 +19,18 @@ class Navbar extends Component {
                                 </Link>
                             </li>
                             <li>
-                                <Link to='/'>
+                                <Link to='/skills'>
                                     <i className="fas fa-copy"></i>Skills
+                                </Link>
+                            </li>
+                            <li>
+                                <Link to='/experiences'>
+                                    <i className="fas fa-id-badge"></i>Experiences
+                                </Link>
+                            </li>
+                            <li>
+                                <Link to='/education'>
+                                    <i className="fas fa-graduation-cap"></i>Education
                                 </Link>
                             </li>
                         </ul>
