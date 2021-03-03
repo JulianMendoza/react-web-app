@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Navbar from './Navbar'
+import Navbar from './Navbar/Navbar'
 import Education from './Education'
 import Skills from './Skills'
 import Profile from './Profile'
@@ -12,7 +12,7 @@ class Home extends Component {
                 <Navbar/>
                 <div classname="container">
                     <div className="row">
-                        <div className=" col s12 m3">
+                        <div className=" col s12 m2">
                         <Profile/>
                         </div>
                         <div className="col s12 m9">

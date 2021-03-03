@@ -11,7 +11,10 @@ class About extends Component {
                 </strong>
             </h6>
             <p className='grey-text'>
-            Lorem 
+            Software Engineering student offering a strong foundation in software architecture and design. Primarily experienced
+in object-oriented programming; developing and testing code in Java. Adequate knowledge of project management
+and software development lifecycles. Passionate teacher and learner; Teaching Assistant for the Systems and
+Computer Engineering department at Carleton University for four semesters.
             </p>    
             </div>
             <div className='card-action'>
@@ -24,25 +27,23 @@ class About extends Component {
                 <div className='col s12 m6 16 x16'>
                     <p>
                         <strong>
-                            Area:
+                            Area:&nbsp; 
                         </strong>
+                        Ottawa, ON. K2C 1J9 
                     </p>
                     <p>
                         <strong>
-                            Email:
+                            Email:&nbsp; 
                         </strong>
-                    </p>
-                    <p>
-                        <strong>
-                            Phone:
-                        </strong>
+                        julianjohn.mendoza@gmail.com
                     </p>
                 </div>
                 <div className="s12 m6 16 x16">
-                    <p>
+                <p>
                         <strong>
-                            Languages:
+                            Phone:&nbsp; 
                         </strong>
+                        613-200-9689
                     </p>
                 </div>
                 </div>

@@ -8,8 +8,16 @@ class Education extends Component {
                     <table className="striped">
                        <tbody>
                            <tr>
-                               <td>School</td>
-                               <td>2021</td>
+                               <td><strong>Carleton University</strong></td>
+                               <td>Sept. 2017 - Present</td>
+                           </tr>
+                           <tr>
+                               <td style={{paddingLeft:"20px"}}>
+                               B.Eng Software Engineering 2022<br/>
+                               Fourth-year Student<br/>
+                               CGPA: 10.69/12<br/>
+                               Attained Dean's Honor List throughout all semesters<br/>
+                               </td>
                            </tr>
                        </tbody>
                     </table>
